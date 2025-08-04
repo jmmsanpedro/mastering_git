@@ -1,0 +1,70 @@
+[33mcommit d75eafde6dfa9774a9124ec0a294f8472673ec73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mar San Pedro <127751590+jmmsanpedro@users.noreply.github.com>
+Date:   Mon Aug 4 09:24:58 2025 +0800
+
+    Update readme.md.txt
+
+[33mcommit ba6d0553c1e1618c02a683e8a59534010b53a47c[m
+Author: Mar San Pedro <127751590+jmmsanpedro@users.noreply.github.com>
+Date:   Mon Aug 4 09:19:02 2025 +0800
+
+    Update readme.md.txt
+    
+    Added a new line to test the git pull from remote to local
+
+[33mcommit c51909bee189f42897061ba737abce11655c1d9a[m
+Merge: 2aae758 698a649
+Author: Mar San Pedro <127751590+jmmsanpedro@users.noreply.github.com>
+Date:   Mon Aug 4 09:18:16 2025 +0800
+
+    Merge pull request #3 from jmmsanpedro/read-me-3
+    
+    Added a new line to test git pull
+
+[33mcommit 698a649c576ed123200476b3e344cf55d71c6073[m[33m ([m[1;31morigin/read-me-3[m[33m)[m
+Author: Mar <jmmsanpedro@gmail.com>
+Date:   Mon Aug 4 09:16:34 2025 +0800
+
+    Added a new line to test git pull
+
+[33mcommit 2aae758d77f698eb04e1d9ce2b39ba905d6e0ee4[m
+Merge: 77cfdbf 7e6def9
+Author: Mar San Pedro <127751590+jmmsanpedro@users.noreply.github.com>
+Date:   Mon Aug 4 09:15:13 2025 +0800
+
+    Merge pull request #2 from jmmsanpedro/read-me-3
+    
+    Added a new line to test the upstream connection
+
+[33mcommit 7e6def9fdf464b76adf63e40ec62a29db4809d67[m
+Author: Mar <jmmsanpedro@gmail.com>
+Date:   Mon Aug 4 09:13:54 2025 +0800
+
+    Added a new line to test the upstream connection
+
+[33mcommit 77cfdbf1e2782d8082258619c8b3d3e909396678[m
+Merge: b56871f 8445046
+Author: Mar San Pedro <127751590+jmmsanpedro@users.noreply.github.com>
+Date:   Mon Aug 4 09:09:25 2025 +0800
+
+    Merge pull request #1 from jmmsanpedro/read-me-3
+    
+    Add new line in readme.md.txt
+
+[33mcommit 844504604beecb24b10254e99ee6b2e0286a3061[m
+Author: Mar <jmmsanpedro@gmail.com>
+Date:   Mon Aug 4 09:06:31 2025 +0800
+
+    Add new line in readme.md.txt
+
+[33mcommit b56871fa9b933058de9baa69c77f9c3ebe4ce284[m[33m ([m[1;32mread-me2[m[33m, [m[1;32mread-me[m[33m)[m
+Author: Mar <jmmsanpedro@gmail.com>
+Date:   Sat Aug 2 15:25:01 2025 +0800
+
+    Add hehe.txt and hello.sql.txt
+
+[33mcommit 31f81ff90f9772351eacd0f4431ca8a62de2bf8c[m
+Author: Mar <jmmsanpedro@gmail.com>
+Date:   Sat Aug 2 15:22:51 2025 +0800
+
+    Added readme.md.txt into staging
